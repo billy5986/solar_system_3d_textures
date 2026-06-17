@@ -1,1 +1,1 @@
-# solar_system_3d_textures
+# Material comes from https://www.solarsystemscope.com/textures/
