@@ -1,1 +1,9 @@
 https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/asteroid.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/burn.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/dead_rock.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/freeze.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/ice.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/ice_dwarf.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/shatter.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/steam.jpg
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/planet_evolution_ending/waterworld.jpg
