@@ -9,3 +9,5 @@ https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/4_ga.
 https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/2k_4.6_ga.png
 https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/6-3_ga.png
 https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/2.1_ga.png
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/66_ma.png
+https://cdn.jsdelivr.net/gh/billy5986/solar_system_3d_textures/early_earth/dinosaur_ending.png
